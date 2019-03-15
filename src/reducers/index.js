@@ -1,9 +1,9 @@
 import { combineReducers } from 'redux'
-import synonymsReducer from './synonymsReducer'
+import editingReducer from './editingReducer'
 
 // Combines all reducers to a single reducer function
 const rootReducer = combineReducers({
-  synonymsReducer
+  editingReducer
 })
 
 export default rootReducer

@@ -9,8 +9,9 @@ const ControlPanelWrapper = styled.div`
   padding-top: 5px;
 `
 const FormatActions = styled.div`
-  width: 200px;
-  margin-right: 400px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
 `
 
 export { ControlPanelWrapper, FormatActions }

@@ -1,3 +1,4 @@
 export default {
-  synonyms: []
+  synonyms: [],
+  typeOfEditing: ''
 }
